@@ -6,10 +6,9 @@ $$\text{Sum} = A + B_{\text{modified}} + C_{\text{in}}$$
 
 Depending on the state of the `SUB` control signal, the hardware dynamically switches between addition and subtraction:
 
-![1Bit Full Adder Block Diagram](<img width="361" height="194" alt="Screenshot 2026-10-25 at 9 22 04 PM" src="https://github.com/user-attachments/assets/1fe5e579-d1ce-4fbe-822a-1061120063e7" />
-)
-![ALU Block Diagram](<img width="361" height="297" alt="Screenshot 2026-10-25 at 8 15 56 PM" src="https://github.com/user-attachments/assets/e41bef7a-741f-4eae-893f-223f3855cc6a" />)
+![1Bit Full Adder Block Diagram](https://github.com/user-attachments/assets/1fe5e579-d1ce-4fbe-822a-1061120063e7)
 
+![ALU Block Diagram](https://github.com/user-attachments/assets/e41bef7a-741f-4eae-893f-223f3855cc6a)
 
 
 ### 1. Addition (`SUB = 0`)
